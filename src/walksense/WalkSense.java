@@ -16,6 +16,7 @@ public class WalkSense {
      */
     public static void main(String[] args) {
         System.err.println("Test 123");
+        System.err.println("Test 123");
     }
     
 }
